@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="ko">
-  <head>
-    <meta charset="UTF-8">
-    <title>20160676 Github Page main</title>
-  </head>
-  <body>
-     <h1>temp</h1>
-  </body>
-</html>
+#temp
+https://github.com/leejs5485/temp/edit/master/200316homework.html
